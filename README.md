@@ -1,5 +1,15 @@
 # English Numeral to Number
 
+## My Solution
+
+npm i to install dependencies
+
+npm t to run the tests
+
+I have not included comments in this code. I have tried to make is as readable as possible. I have extracted a switch function into a utils folder so as not to clutter the main file.
+
+Below is the original task.
+
 ## Objective
 
 The objective of this technical challenge is to create a function which can convert an english numeral to a number.
